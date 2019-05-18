@@ -1,0 +1,23 @@
+{
+  "name": "clickatel",
+  "version": "1.0.0",
+  "description": "clicka tel javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gntimba/clickatel.git"
+  },
+  "author": "Gntimba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gntimba/clickatel/issues"
+  },
+  "homepage": "https://github.com/gntimba/clickatel#readme",
+  "dependencies": {
+    "clickatell-platform": "^2.0.11",
+    "express": "^4.17.0"
+  }
+}
